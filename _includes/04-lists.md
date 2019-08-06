@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Harry Potter
+* Lord of the Rings
+* The Hobbit
